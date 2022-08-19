@@ -6,7 +6,7 @@ int a, b, c;
 int main()
 {
 
-  pi = {1, 2};
+  pi = {2, 2};
 
   tl = make_tuple(2, 2, 3);
   tie(a, b) = pi;
