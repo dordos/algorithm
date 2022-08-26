@@ -29,7 +29,7 @@ int main() {
       }
     }
   }
-  cout << ret;
+  cout << ret << '\n';
 
   return 0;
 }
